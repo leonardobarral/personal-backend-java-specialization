@@ -10,7 +10,7 @@
 - 🐳 Integração com Docker para gerenciamento de containers.
 - ☁️ Hospedagem na AWS para garantir escalabilidade e confiabilidade.
 
-## Tecnologias Utilizadas 
+## Tecnologias Utilizadas 🖥 
 
 - **Java (Spring Boot)**: Desenvolvimento do backend.
 - **Spring Security**: Gerenciamento de autenticação e autorização.

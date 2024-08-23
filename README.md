@@ -63,7 +63,7 @@
    ```bash
    mvn spring-boot:run
    ```
-6. 🌐 Acesse a aplicação através do Postman (http://localhost:8080) no navegador ou utilize o arquivo JSON abaixo, no Postman:
+6. 🌐 Acesse a aplicação através do Postman Porta 8080, utilize o arquivo JSON abaixo, no Postman:
 https://github.com/leonardobarral/personal-backend-java-specialization/tree/main/Testes_Postman
 
 ## 📋 Observações
